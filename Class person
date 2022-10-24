@@ -1,0 +1,10 @@
+Class person:
+    def__init__(self,name,age):
+         self.name=name
+         self.age=age
+    def moving (self):
+         Print (self.name,"is moving")
+Obj1=person ("Mohamed",20)
+Print (obj1.name)
+Print (obj1.age)
+Obj1.moving()
